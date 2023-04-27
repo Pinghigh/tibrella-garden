@@ -2,7 +2,7 @@
 title: 在 UEFI ArchLinux 下使用 ZFSBootMenu 作为引导器（可双启动）
 date: 2022-11-28 16:32:35
 tags: [ZFSBootMenu, ZFS, ArchLinux]
-categories: ArchLinux
+categories: Linux
 image: https://pic.imgdb.cn/item/63a8671208b683016397a5d0.jpg
 description: zstd 下 zfs 根目录压缩率能上 2x，而且对于 gzip 来说性能更好，但是显然 grub 引导不了，其他的不好用，所以折腾了 ZBM
 ---

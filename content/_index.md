@@ -1,27 +1,70 @@
 ---
-title: 🪴 Quartz 3.3
+title: 一个学生党东方厨的数字花田
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+本网站所有文章无特殊声明均以 [FDL 1.3](https://www.gnu.org/licenses/fdl-1.3.html) 协议发布。  
+即：允许根据 GNU FDL 1.3 或自由软件基金会发布的任何后续版本的条款复制、分发和/或修改本文件；没有不变部分，没有封面文字，也没有封底文字。
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+我在进行一种很新的尝试，也许是魂之花田。
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+垃圾场：[[钛合金伞的垃圾场]]
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+目录如下：
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+# 技术
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+## Linux 篇
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+* [[notes/Linux/在启用 ZSTD 压缩的 ZFS 根分区上安装 ArchLinux 并配置 Windows 双启动]]
+* [[notes/Linux/NOI Linux 相关]]
+* [[notes/Linux/ZFSBootMenu 基础使用]]
 
+# OI
+
+## C++ 相关
+
+* [[notes/语言基础/读入未知数量的数据]]
+* [[notes/语言基础/类]]
+* [[notes/语言基础/数组相关]]
+* [[notes/语言基础/字符数组]]
+* [[notes/语言基础/C++ 语言特性杂谈与常数优化]]
+* [[notes/语言基础/STL 容器]]
+* [[notes/语言基础/STL string]]
+
+## 搜索
+
+* [[notes/搜索/搜索基础]]
+
+## 数据结构
+
+* [[notes/数据结构/树状数组]]
+* [[notes/数据结构/线段树]]
+
+## 图论
+
+* [[notes/图论/图论基础]]
+* [[notes/图论/倍增法求 LCA]]
+* [[notes/图论/并查集]]
+* [[notes/图论/强连通分量]]
+* [[notes/图论/图论杂谈]]
+* [[notes/图论/细菌 题解]]
+
+## 数学
+
+* [[notes/数学/数论基础]]
+* [[notes/数学/质数筛法]]
+* [[notes/数学/最大公约数]]
+
+## 动态规划
+
+* [[notes/动态规划/背包 DP]]
+
+## 串
+
+* [[notes/串/最长回文子串——manacher]]
+
+## 杂算法
+
+* [[notes/杂算法/模拟退火]]
+* [[notes/杂算法/RMQ 问题]]

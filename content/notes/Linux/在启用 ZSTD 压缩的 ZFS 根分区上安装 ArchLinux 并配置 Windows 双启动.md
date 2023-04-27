@@ -2,7 +2,7 @@
 title: 在启用 ZSTD 压缩的 ZFS 根分区上安装 ArchLinux 并配置 Windows 双启动
 date: 2022-12-15 19:46:43
 tags: [ZFSBootMenu, ArchLinux, ZFS]
-categories: ArchLinux
+categories: Linux
 image: https://pic.imgdb.cn/item/639b2768b1fccdcd36e13360.jpg
 top_img: https://pic.imgdb.cn/item/639b27a7b1fccdcd36e1f24d.jpg
 description: 终于填上这个坑了！为了 zfs 折腾了好久！(经过虚拟机实验，完美安装)
