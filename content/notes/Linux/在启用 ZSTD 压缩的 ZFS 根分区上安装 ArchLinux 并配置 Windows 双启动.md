@@ -8,7 +8,8 @@ top_img: https://pic.imgdb.cn/item/639b27a7b1fccdcd36e1f24d.jpg
 description: 终于填上这个坑了！为了 zfs 折腾了好久！(经过虚拟机实验，完美安装)
 ---
 
-[前情提要](https://pinghigh.github.io/2022/11/28/2022-11-28-ZFSBootMenu/)
+[[ZFSBootMenu 基础使用]] 和这篇文章的最后部分相同。
+本方案已经被实际测试过，完全可用，但是建议在有 Linux 基础的情况下折腾 ZFS，因为没准有某个地方我会忘记修改...
 
 ## 总览
 分区大概长这样
