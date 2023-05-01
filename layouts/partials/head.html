@@ -71,8 +71,8 @@
 
   {{partial "mermaid.html" .}}
 
-  <script src="https://cdn.jsdelivr.net/npm/@floating-ui/core@1.2.1"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.2.1"></script>
+  <script src="https://unpm.elemecdn.com/@floating-ui/core@1.2.1/dist/floating-ui.core.umd.min.js"></script>
+  <script src="https://npm.elemecdn.com/@floating-ui/dom@1.2.1/dist/floating-ui.dom.umd.min.js"></script>
   {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" |
   resources.Minify }}
   <script defer src="{{$popover.Permalink}}"></script>
@@ -169,7 +169,7 @@
       {{if $data.enableMermaid | default $.Site.Data.config.enableMermaid}}
         var els = document.getElementsByClassName("mermaid");
         if (els.length > 0) {
-          import('https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs').then(
+          import('https://unpkg.zhimg.com/mermaid@9/dist/mermaid.esm.min.mjs').then(
             (obj) => {
               // init forces mermaid to render mermaid markdown without waiting
               // for DOMContentLoaded event

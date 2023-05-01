@@ -14,7 +14,7 @@ other = "最后更新于"
 other = "带有此标签的笔记"
 
 [first_10]
-other = "正在展示前10个结果"
+other = "正在展示前 10 个结果"
 
 [tag]
 other = "标签"
@@ -53,7 +53,7 @@ other = "打开搜索图标"
 other = "近期笔记"
 
 [first_3_notes]
-other = "前3个 {{ .notes }}"
+other = "前 3 个 {{ .notes }}"
 
 [search_for_something]
 other = "进行搜索......"
