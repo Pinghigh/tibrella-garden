@@ -16,84 +16,58 @@ enableToc: false
 
 ## Linux 篇
 
-```dataview
-list 
-from "notes/Linux"
-where true
-sort file.ctime
-```
+* [[notes/Linux/在启用 ZSTD 压缩的 ZFS 根分区上安装 ArchLinux 并配置 Windows 双启动]]
+* [[notes/Linux/NOI Linux 相关]]
+* [[notes/Linux/ZFSBootMenu 基础使用]]
 
 
 # OI
 
 ## C++ 语言基础
 
-```dataview
-list 
-from "notes/语言基础"
-where true
-sort file.ctime
-```
+* [[notes/语言基础/读入未知数量的数据]]
+* [[notes/语言基础/类]]
+* [[notes/语言基础/数组相关]]
+* [[notes/语言基础/字符数组]]
+* [[notes/语言基础/C++ 语言特性杂谈与常数优化]]
+* [[notes/语言基础/STL 容器]]
+* [[notes/语言基础/STL string]]
 
 ## 搜索
 
-```dataview
-list 
-from "notes/搜索"
-where true
-sort file.ctime
-```
+* [[notes/搜索/搜索基础]]
 
 ## 数据结构
 
-```dataview
-list 
-from "notes/数据结构"
-where true
-sort file.ctime
-```
+* [[notes/搜索/搜索基础]]
 
 ## 图论
 
-```dataview
-list 
-from "notes/图论"
-where true
-sort file.ctime
-```
+* [[notes/图论/倍增法求 LCA]]
+* [[notes/图论/并查集]]
+* [[notes/图论/强连通分量]]
+* [[notes/图论/图论基础]]
+* [[notes/图论/图论杂谈]]
+* [[notes/图论/细菌 题解]]
 
 ## 数学
 
-```dataview
-list 
-from "notes/数学"
-where true
-sort file.ctime
-```
+* [[notes/图论/倍增法求 LCA]]
+* [[notes/图论/并查集]]
+* [[notes/图论/强连通分量]]
+* [[notes/图论/图论基础]]
+* [[notes/图论/图论杂谈]]
+* [[notes/图论/细菌 题解]]
 
 ## 动态规划
 
-```dataview
-list 
-from "notes/动态规划"
-where true
-sort file.ctime
-```
+* [[notes/动态规划/背包 DP]]
 
 ## 串
 
-```dataview
-list 
-from "notes/串"
-where true
-sort file.ctime
-```
+* [[notes/串/最长回文子串——manacher]]
 
 ## 杂算法
 
-```dataview
-list 
-from "notes/杂算法"
-where true
-sort file.ctime
-```
+* [[notes/杂算法/模拟退火]]
+* [[notes/杂算法/RMQ 问题]]
