@@ -67,7 +67,7 @@ Linux:
 
 绝对路径：能唯一确定的路径，也就是说从根目录表示的确定的位置，比如 `/usr/local/bin`
 
-相对路径：相对于某一目录的位置，比如当前目录是 `/usr/local/` 则上面的路径可以表示为 `bin` 或 `./bin`
+相对路径：相对于某一目录的位置，比如当前目录是 `/usr/local/`， 则上面的路径可以表示为 `bin` 或 `./bin`
 
 先提供相应的命令：
 
@@ -82,13 +82,13 @@ mkdir modmodwhr
 
 # 创建空文件
 touch filename
-# 创建一个名为 whrakioi 文件夹
+# 创建一个名为 whrakioi 的空文件
 touch whrakioi
 
 
 # 进入一个目录
 cd folder_name
-# 当前目录下有一个 hhyakioi 文件夹，进入该文件夹
+# 如果当前目录下有一个 hhyakioi 文件夹，则可以通过这个命令进入该文件夹
 cd hhyakioi
 # 或者 . 代表当前目录，./hhyakioi 相当于进入当前目录下的 hhyakioi 文件夹
 cd ./hhyakioi
